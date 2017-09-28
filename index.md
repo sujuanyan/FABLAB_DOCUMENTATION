@@ -1,7 +1,7 @@
 # Junyan Su's Fablab Website
 
 ## 1.Who am I?
-I'm  an undergraduate student major in CS(Computer Science) [Shanghaitech Univercity](http://www.shanghaitech.edu.cn/). I am eager to try everthing and make things with fantastic machines. That's the reason I find Fablab is a perfect place for me. Although I major in CS, electrinics is also my interests. I am famliar with Arduino and Raspberry Pi. Unfortunately, I have no design experience neither in 3D or 2D but I'm willin to learn.
+I'm  an undergraduate student major in CS(Computer Science) [Shanghaitech Univercity](http://www.shanghaitech.edu.cn/). I am eager to try everthing and make things with fantastic machines. That's the reason I find Fablab is a perfect place for me. Although I major in CS, electronics is also my interests. I am famliar with Arduino and Raspberry Pi. Unfortunately, I have no design experience neither in 3D or 2D but I'm willin to learn.
 
 
 ## 2.What is this website for?
@@ -9,7 +9,7 @@ This is a documentation website for what I do every week in fablab
 
 Here is the list:
 - #### [WEEK1 Introduction to Fablab and basic web design skills](week1.md)
-- #### [WEEK2 Make a simple toy with Rhnio and LaserCut](week2/week2.md)
+- #### [WEEK2 Make a simple robot model with Rhnio and LaserCut](week2/week2.md)
 
 
 ## 3. How can you contact me?

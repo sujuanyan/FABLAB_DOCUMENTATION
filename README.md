@@ -1,2 +1,2 @@
-# FABLAB_Website
-A Fablab documentation website of myself
+# FABLAB_DOCUMENTATION
+A Fablab documentation website of Janyan Su(GENE)
