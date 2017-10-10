@@ -24,12 +24,37 @@ More imformation about Rhino can be found in this [Chinese wbsite](http://www.xu
 ### 2.1 Test the machine
 Here are imformation about what power and speed can cut through the wood(4.5mm).
 
-|power| speed | can or not cut through 	|
-| :------------:| :------------:| :------------:|
-|70   |	1	  |yes						|
-|65	  |	1	|yes						|
-|80	  |2	|yes  						|
-|78   |2    |no							|
+<div id="wmd-preview" class="wmd-preview"><div class="md-section-divider"></div><table data-anchor-id="f3m7" class="table table-striped-white table-bordered">
+<thead>
+<tr>
+ <th style="text-align:center;">power</th>
+ <th style="text-align:center;">speed</th>
+ <th style="text-align:center;">can or not cut through</th>
+</tr>
+</thead>
+<tbody><tr>
+ <td style="text-align:center;">70</td>
+ <td style="text-align:center;">1</td>
+ <td style="text-align:center;">yes</td>
+</tr>
+<tr>
+ <td style="text-align:center;">65</td>
+ <td style="text-align:center;">1</td>
+ <td style="text-align:center;">yes</td>
+</tr>
+<tr>
+ <td style="text-align:center;">80</td>
+ <td style="text-align:center;">2</td>
+ <td style="text-align:center;">yes</td>
+</tr>
+<tr>
+ <td style="text-align:center;">78</td>
+ <td style="text-align:center;">2</td>
+ <td style="text-align:center;">no</td>
+</tr>
+</tbody></table></div>
+
+
 
 ### 2.2 A simple robot wooden model
 Here is the design of my robot model in CDR. Actually when exporting dxf fiel from Rhino, there is something wrong with words, so I have to design the words in corel draw and here is my final design
@@ -46,15 +71,19 @@ It is a role character in an American adult animated science-fiction sitcom [Ric
 
 <img src="PickleRick/Picklerick.jpg" width="20%">
 
+
 #### 2.3.2 Things to do with Rhino
 First, a download the image online and use the curve function to get the outline of the image. And then I try to design the joint part to make it stand.This part is a bit tricky since I am not try the thickness of the wooden board so I just put it roughly 4.5mm and try to resize it in corel draw.
 
 <img src="PickleRick/2.png" width="60%">
 
+
 #### 2.3.3 I turned myslef into a pickle!!! Isn't it awesome???
+
 Also, you can find my source file here [CDR file](design_source_file/pickelRick.cdr) and  [DXF file](design_source_file/pickelRick.dxf)
 
 <img src="PickleRick/final.jpg" width="60%">
+
 ### 2.4 In Addtion, here are some vedios of the process of the laser cutting.
 
 [Simple robot](a.mp4)
