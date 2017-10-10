@@ -19,6 +19,7 @@ More imformation about Rhino can be found in this [Chinese wbsite](http://www.xu
 <p><strong>This is our teacher checking the laser cut machine</strong></p>
 <img src="3.jpg" width="40%">
 <p><strong>This is a small demostration our teacher made to illustrate the basic skills with Rhino</strong></p>
+
 ## 2. Make something in practice 
 ### 2.1 Test the machine
 Here are imformation about what power and speed can cut through the wood(4.5mm).
