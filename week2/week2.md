@@ -24,7 +24,7 @@ More imformation about Rhino can be found in this [Chinese wbsite](http://www.xu
 Here are imformation about what power and speed can cut through the wood(4.5mm).
 
 |power| speed | can or not cut through 	|
-| :--:| :----:| :----:					|
+| :----:| :----:| :----:					|
 |70   |	1	  |yes						|
 |65	  |	1	|yes						|
 |80	  |2	|yes  						|
