@@ -11,6 +11,7 @@ Here is the list:
 - #### [WEEK1: Introduction to Fablab and basic web design skills](week1.md)
 - #### [WEEK2: Practice with Rhnio and LaserCut to Do the 2D design](week2/week2.md)
 - #### [WEEK3: Practice of 3D printer ](week3/week3.md)
+- #### [WEEK4: A totoro with 3D scanner](week4/week4.md)
 
 
 ## 3. How can you contact me?
