@@ -32,5 +32,5 @@ After I transfer the model to mesh form, I can see some annoying holes on the ob
 In rhino, I add a simple pedestal to the totoro ( I was not able to come up with interesting ideas, if you have, please let me know ), and print it with the argument 0.1mm, no support.
 
 <img src="totoro_result.jpg" width="40%">
-## [Go back to index](..\index.md)
+## [Go back to index](../index.md)
 

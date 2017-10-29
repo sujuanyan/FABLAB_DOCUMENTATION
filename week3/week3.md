@@ -60,4 +60,4 @@ It can be seen from above that there are many support column in the preview. It 
 <img src="8.jpg" width="40%">
 <img src="14.jpg" width="40%">
 
-## [Go back to index](..\index.md)
+## [Go back to index](../index.md)

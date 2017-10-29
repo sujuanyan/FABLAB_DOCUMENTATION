@@ -90,7 +90,7 @@ Also, you can find my source file here [CDR file](design_source_file/pickelRick.
 
 [Pickel rick](PickelRick/a.mp4)
 
-[GO BACK TO INDEX](index.md)
+[GO BACK TO INDEX](../index.md)
 
 
 
