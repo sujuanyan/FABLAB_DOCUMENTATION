@@ -16,7 +16,7 @@ Here is the list:
 - ####  [WEEK6: Play with mill (PCB print)](week6/week6.md)
 - ####  [WEEK7: Soldering arduino onto the PCB](week7/week7.md)
 - ####  [ WEEK8: Program with arduino](week8/week8.md)
-- ####  [Final Project]()
+- ####  [Final Project: A DONOT TOUCH ME Robot](final_project/final_project.md)
 
 
 
