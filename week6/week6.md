@@ -1,6 +1,6 @@
 # WEEK6: Play with mill (PCB print)
 ## 1. Generate rml file
-In the class, the teacher give us three png file designed by eagle(a PCB design software), then we go to the the [website](fabmodules.org) and generate the rml file that can be sent to the SRM-20 mechine.
+In the class, the teacher give us three png file designed by eagle(a PCB design software), then we go to the the [website](www.fabmodules.org) and generate the rml file that can be sent to the SRM-20 mechine.
 
 Steps needed to be done:
 - import the png file, select rml file, choose 1/64 for the first png file and 1/32 for the second and third png file.
