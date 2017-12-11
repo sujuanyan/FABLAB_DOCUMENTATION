@@ -133,14 +133,14 @@ void Stop()
 <img width="40%" src="demo2.jpg">
 
 <video width="640" height="360" controls>
-	<source src="demo.MP4"  type="video/mp4" />
+	<source src="demo.mp4"  type="video/mp4" />
 	<object width="640" height="360" type="application/x-shockwave-flash" data="__FLASH__.SWF">
 		<param name="movie" value="__FLASH__.SWF" />
-		<param name="flashvars" value="controlbar=over&amp;image=__POSTER__.JPG&amp;file=demo.MP4" />
+		<param name="flashvars" value="controlbar=over&amp;image=__POSTER__.JPG&amp;file=demo.mp4" />
 		<img src="demo.JPG" width="640" height="360" alt="__TITLE__"
 		     title="No video playback capabilities, please download the video below" />
 	</object>
 </video>
 <p>	<strong>Download Video:</strong>
-	Closed Format:	<a href="demo.MP4">"MP4"</a>
+	Closed Format:	<a href="demo.mp4">"MP4"</a>
 </p>
