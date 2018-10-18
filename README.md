@@ -1,2 +1,2 @@
 # FABLAB_DOCUMENTATION
-A Fablab documentation website of Janyan Su(GENE)
+A Fablab documentation website of Junyan Su(GENE)
